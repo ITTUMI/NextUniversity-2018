@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>BlogComida</title>
+    <link rel="stylesheet" href="css/foundation.min.css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="foundation-icons/foundation-icons.css" media="screen" charset="utf-8">
+    <link rel="stylesheet" href="css/home.css" media="screen" charset="utf-8">
+  </head>
+  <body>
+    <div class="row">
+      <div class="small-12 columns">
+        <div class="row align-center">	<!-- LOGO! -->
+        	<div class="medium-4 columns text-center">
+            	<h1>Healthy Food</h1>
+            	<h3>Comida sana & trucos para cuidarse</h3>
+          	</div>
+          	<div class="medium-8 columns hide-for-small-only">
+   		    </div>
+      	</div>
+      </div>
+      	<div class="small-12 columns content callout">
+	      <div class="row large-uncollapse	">
+	      	<div class="medium-4 columns show-for-medium">
+	      		<div>
+	      			<div name="buscador">
+		      			<form>
+		      			<label>
+		      			<i class="step fi-magnifying-glass">Buscar
+		      			<input type="text" name="search"></i>
+		      			</label>
+		      			</form>
+	      			</div>
+	      			<hr>
+	      			<div class="row" name="lista">
+		      			<ul	class="menu vertical button-group">
+						  <li ><a href="#" class="button">Salud</a></li>
+						  <li ><a href="#" class="button">Recetas</a></li>
+						  <li ><a href="#" class="button">Ingredientes</a></li>
+						</ul>				
+	      			</div>
+	      			<hr>
+	      			<div class="favoritos">
+	      				<p>Favoritos:</p>
+	      				<div class="row large-uncollapse">
+	      					<div class="medium-4 columns">
+	      					<img src="img/food1.jpg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      					<div class="medium-4 columns">
+	      					<img src="img/food2.jpeg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      					<div class="medium-4 columns">
+	      					<img src="img/food3.jpg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      				</div>
+	      				<div class="row large-uncollapse">
+	      					<div class="medium-4 columns">
+	      					<img src="img/food4.jpg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      					<div class="medium-4 columns">
+	      					<img src="img/food5.jpg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      					<div class="medium-4 columns">
+	      					<img src="img/food6.jpg" alt="Decoracion 1" class="thumbnail">
+	      					</div>
+	      				</div>
+	      			</div>
+	      			<hr>
+	      			<div class="Historial">
+	      				<p>Historial</p>
+	      				<ul	class="menu vertical alert callout">
+						  <li ><a href="#">Salud</a></li>
+						  <li ><a href="#">Perder Peso</a></li>
+						  <li ><a href="#">Dietas</a></li>
+						  <li ><a href="#">Recetas</a></li>
+						  <li ><a href="#">Belleza</a></li>
+						  <li ><a href="#">Jugo Verde</a></li>
+						  <li ><a href="#">Ejercicio en Casa</a></li>
+						  <li ><a href="#">Ensaladas</a></li>
+						  <li ><a href="#">Tiempos</a></li>
+						</ul>			
+	      			</div>
+	      		</div>
+	      	</div>
+	      	<div class="medium-8 columns">
+	      		<div>
+	      			<h4>Verduras Asadas Crunchy</h4>
+	      			<h6>29 de Agosto del 2017</h6>
+	      			<div>
+	      			</div>
+	      			<div class="primary callout text-center">
+                    <img class="imgarticle thumbnail" src="img/article1.jpg">
+                    <p style">Este plato, está cocinado con una base de Verduras y legumbres y pertenece a los platos de la cocina Vegetariana. 
+                       Por regla general se consume, principalmente, durante Todo el año, y se suele servir a los comensales como Primer plato.</p>                    
+                  	<textarea placeholder="Comentarios!" cols="30" rows="5"></textarea><i class="fa fa-user-o"></i>
+                    </div>
+                    <h4>Verduras Asadas Crunchy</h4>
+	      			<h6>25 de Agosto del 2017</h6>
+	      			<div>
+	      			</div>
+	      			<div class="warning callout text-center">
+                    <img class="imgarticle thumbnail" src="img/imgarticle2.jpg">
+                    <p>Postre frío elaborado con varias frutas generalmente aromatizadas con jarabe perfumado, a veces con aguardiente o licor.
+                     Las frutas pueden ser crudas, secas y rehidratadas, o pochadas y enfriadas. Las ensaladas de frutas se combinan a veces con helados 
+                     y sorbetes de frutas o de vainilla.</p>                    
+                  	<textarea placeholder="Comentarios!" cols="30" rows="5"></textarea><i class="fa fa-user-o"></i>
+                    </div>
+	      		</div>
+	      	</div>
+     	  
+    	 
+    	</div>
+	</div>
+
+
+
+
+
+
+              
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/what-input.js"></script>
+    <script src="js/foundation.min.js" charset="utf-8"></script>
+    <script src="js/home.js" charset="utf-8"></script>
+  </body>
+</html>

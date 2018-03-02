@@ -1,0 +1,64 @@
+body{	
+	font-family: Comic Sans MS;
+    background-image: url(../img/imgbkg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+.logo{
+  width: 60%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  float: left;
+  
+}
+.slogan{
+	font-size: 2rem;
+}
+.navlist a{https://s3.amazonaws.com/nextu-content-production/Desarrollador_Web/03_Frameworks_y_Librerias_CSS/Componentes_del_Curso/final_project/i4.png
+	display: inline;
+}
+.navlistop{
+	border-radius: 5px;
+}
+.sociallogo{
+	width: 2rem !important;
+	height: 2rem !important;
+	align: center;
+}
+.imgcontenido{
+	width:100%;
+	margin-top: 8px;
+}
+.nopad{
+	padding-left: 0 !important;
+}
+
+.contenedor-noticias{
+  margin-top: 1rem;
+  min-height: 50rem;
+  padding: 0.5rem;
+}
+.responsive-img{
+  border: 0.4rem solid #ff8f00;
+  border-radius: 5px;
+}
+.autor-img{
+    max-width: 60%;
+    height: auto;
+    border: 0.4rem black solid ;
+    
+}
+    
+.buscar-campo{
+  float: left;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  width: 70%;
+}
+.textarea.materialize-textarea{
+	border-bottom: 1px solid #ffecb3;
+}
+
+

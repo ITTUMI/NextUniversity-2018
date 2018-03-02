@@ -1,0 +1,25 @@
+.barra-superior{
+  min-height: 4rem;
+}
+.logo{
+  width: 40px;
+  margin-top: 1.5rem;
+  float: left;
+}
+.buscar-campo {
+    float: left;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+    width: 70%;
+}
+.buscar-campo i{
+	margin-top: -3.5rem;
+	margin-left: 18rem;
+}
+.bloque-button{
+	margin-top: 1rem;
+}
+#publicacion-texto{
+	background-color: #ff8f00;
+	border: 1px solid 
+}

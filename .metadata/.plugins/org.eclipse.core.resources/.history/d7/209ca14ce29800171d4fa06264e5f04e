@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <!--Importar la fuente de los íconos de Google-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Importar la hojas de estilos de materialize css-->
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/customColors.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/index.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <title>Tourist Blog</title>
+</head>
+<body>
+  <div class="row">
+    <div class="s12 col  blue lighten-5 nav wrapper">
+      <div class="row">
+        <div class="s12 m3 col">
+          <img src="img/itatix_logo.png" alt="ShareUrCode" class="logo"/>
+		</div>
+		<div class="m9 col ">
+			<div>
+			<ul class=" navlist	 " id="mobile-demo">
+			<a class="waves-effect waves-light btn">Inicio</a>
+			<a class="waves-effect waves-light btn">Recomendaciones</a>
+			<a class="waves-effect waves-light btn">Tours</a>
+			<a class="waves-effect waves-light btn">Destinos</a>
+			<a class="waves-effect waves-light btn">Contactanos</a>
+	     	</ul>
+	     	</div>
+	     	<div>
+	     	<p class="slogan">Ponemos Alas a tus Sueños</p>
+	     	</div>
+		</div>
+	  </div>
+	</div>
+	<div class="l1 col hide-on-med-and-down">
+      <div class="collection">
+        <a class="collection-item avatar">
+          <img src="img/ig.png" alt="" class="circle ">
+        </a>
+        <a class="collection-item avatar">
+          <img src="img/tt.png" alt="" class="circle ">
+        </a>
+        <a class="collection-item avatar">
+          <img src="img/fb.png" alt="" class="circle ">
+        </a>
+        <a class="collection-item avatar">
+          <img src="img/pt.png" alt="" class="circle ">
+        </a>
+        <a class="collection-item avatar">
+          <img src="img/yt.png" alt="" class="circle ">
+        </a>
+      </div>
+    </div>
+ 	
+ 	<div class="s12 m4 col">
+ 		 <div>
+ 		 <img src="img/img1.jpg" class="imgcontenido responsive-img">
+ 		 </div>
+ 		 <div>
+ 		 <img src="img/img1-2.jpg" class="imgcontenido responsive-img">
+ 		 </div>
+ 	</div>	
+ 	<div class="s12 m4 l3 col">
+  		 <img src="img/img2-1.jpg" class="imgcontenido responsive-img">
+ 	</div>	
+ 	<div class="s12 m4 col">
+ 		 <div>
+ 		 <img src="img/img3.jpg" class="imgcontenido responsive-img">
+ 		 </div>
+ 		 <div>
+ 		 <img src="img/img3-2.jpg" class="imgcontenido responsive-img">
+ 		 </div>
+ 	</div>
+ 	
+ 	<div class="s12 m8 col">
+ 		<div>
+ 		<h3>Panda Dujiangyan</h3>
+ 		<p>13 de Septiembre del 2017; Dujiangyan Panda Base , China</p>
+ 		</div>
+ 		<div class="s12 m4 col">
+ 		<img src="img/imgarticle.jpg" class="imgcontenido responsive-img">
+  		</div>
+  		<div class="s12 m8 col">
+  		<p>El panda, oso panda o panda gigante es una especie de mamífero del orden de los carnívoros, a pesar de pertenecer al orden de los carnívoros, el panda es un animal 
+  		mayormente herbívoro, alimentándose casi exclusivamente de cerca de 30 especies de caña de bambú (el 99% de su dieta consiste en bambú). Se sabe que el panda también 
+  		utiliza insectos y huevos como fuente de proteínas. Es posible que incluya, además roedores y crías de ciervo musk.</p>
+  		</div>
+  		<div>
+  		<p>Su sentido del olfato es muy utilizado durante la época de apareamiento. El período de gestación tiene una duración de cinco meses y dan a luz de una a dos crías 
+  		totalmente ciegas de apenas 140 gramos de peso. Nacen con un color piel y conforme crecen van adquiriendo su particular coloración. La vida promedio de un panda es de 
+  		12 a 20 años. Cada 25 años de vida de un oso panda representa 100 años de vida humana.
+  		Las principales causas de peligro para el oso panda son la dificultad para reproducirse cuando están en cautividad, en parte debido a su extrema timidez, y la destrucción de su hábitat natural, al talar miles de hectáreas de los bosques de bambú.
+		Otra causa importante de su desaparición son los cazadores furtivos, que existen a pesar de los castigos impuestos por el gobierno chino en caso de cazar ilegalmente un oso panda.
+  		</p>
+  		</div>
+ 		<div>
+ 		comentarios
+ 		</div>
+ 	</div>
+ 	<div class="s12 m4 col">
+ 		<div>
+ 		<img src="img/imgautor.jpg" class="imgcontenido responsive-img">
+ 		</div>
+ 		<div>
+ 			biografia
+ 		</div>
+ 	
+ 	</div>
+ 	
+ 	
+  </div>
+  </body>
+  </html>

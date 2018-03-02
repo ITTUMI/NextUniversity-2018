@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JavaScript</title>
+</head>
+<body>
+	<script type="text/javascript">
+	document.addEventListener('click', function(){
+		alert('Se ha realizado un click en el documento')
+	})
+	</script>
+
+</body>
+</html>

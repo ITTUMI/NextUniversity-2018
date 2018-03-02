@@ -1,0 +1,37 @@
+body{
+   font-family: Comic Sans MS;
+	background-image: url(../img/bodyimg.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+ 	background-size: cover;
+}
+.content{
+	background-color: rgba(116, 210, 188, 0.3);
+}
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+h3{
+	font-size: 1rem;
+	text-align: right;
+}
+.favoritos{
+	margin-top: 2rem;
+}
+
+.imgarticle{
+	max-height: 100%; 
+	}
+h1,h2,h3,h4,h5,h6,p{
+	font-family: Comic Sans MS;
+	color: #ffffff;
+}

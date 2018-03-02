@@ -1,0 +1,19 @@
+.logo-img {
+  width: 15%;
+  height: auto;
+  margin: 2rem auto;
+}
+.social-img{
+	max-width: 8%;
+	
+}
+.social-align{
+    position: absolute;
+    bottom: 0;
+    right:1.5rem;
+}
+.musicnav{
+	max-width: 100%;
+	background-color: red;
+	color: white-;
+}

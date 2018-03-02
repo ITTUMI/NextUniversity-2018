@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JavaScript</title>
+</head>
+<body>
+	<script type="text/javascript">
+	function Alertar()	{
+		alert('Mensaje de Alerta'')
+	}
+	document.addEventListener('click', Alertar)
+	</script>
+
+</body>
+</html>
