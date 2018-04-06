@@ -63,8 +63,8 @@ $(function(){
   })
 
   $("#balon").on("click", function(){
-    $(this)
-    .animate(
+    //
+    $(this).animate(
       {
         top: posVertical,
         left: posHorizontal
@@ -73,15 +73,18 @@ $(function(){
           {
             width: "-=70"
           },
+//step modifica el elemento durante el transcurso de la animacion
           {
             step: function(now){
-              $(this).css("transform","rotate("+now*10+"deg)")
+              $(this).css("transform","rotate("+now*100+"deg)")
             },
             queue: false,
             duration: 1200
           }
         )
+//tiempo de espera esntre animacion
       .delay(1000)
+//hacer que balon caiga
       .animate(
         {
           top: "400px"
