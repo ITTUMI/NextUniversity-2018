@@ -1,0 +1,31 @@
+/*General Styles*/
+nav{
+  height: 5vw;
+}
+footer{
+  height: 5vw;
+}
+.logoIndex{
+  width: 30%;
+  height: 30%;
+}
+.tituloIndex{
+  margin-top: 10px;
+}
+.filterLogo{
+  width: 20%;
+  height: 20%;
+  margin-right: 10px;
+}
+.checkboxStyles{
+  width: 10px;
+}
+.filterButton{
+  border: none;
+}
+.pdfIcon{
+  color: red;
+}
+.xmlIcon{
+  color: green;
+}
